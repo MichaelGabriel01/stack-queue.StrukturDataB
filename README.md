@@ -6,9 +6,9 @@ Stack (tumpukan) adalah struktur data yang meniru bagaimana proses menyimpan dan
 
 Operasi dalam stack :
 Push : Menyisipkan data ke dalam stack.
-Pop : Mengeluarkan data dari stack
+Pop : Mengeluarkan data dari stack.
 IsEmpty : Untuk mengecek apakah stack dalam keadaan kosong atau tidak.
-IsFull : Untuk mengecek apakah stack dalam keadaan penuh atau tidak
+IsFull : Untuk mengecek apakah stack dalam keadaan penuh atau tidak.
 Clear : Mengosongkan isi data.
 
 Pendeklarasian stack :
