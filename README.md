@@ -1,16 +1,15 @@
 # stack-queue.StrukturDataB
 
-KODE PROGRAM STACK DAN QUEUE
-Stack (tumpukan) adalah struktur data yang meniru bagaimana proses menyimpan dan mengambil suatu buku pada suatu tumpukan buku yang ada di lantai. Apabila diperhatikan dengan seksama maka proses menyimpa buku (disebut push) dan proses mengambil buku (disebut pop) dari suatu tumpukan selalu dilakukan pada bagian atas tumpukan (top of the stack ) sehingga terjadi urutan yang disebut LIFO (Last In First Out).
+STACK DAN QUEUE
 
-Artinya, buku yang terakhir disimpan adalah buku yang pertama harus diambil karena buku inilah  yang berada pada urutan teratas dari tumpukan.
+Stack (tumpukan) adalah struktur data yang meniru bagaimana proses menyimpan dan mengambil suatu buku pada suatu tumpukan buku yang ada di lantai. Apabila diperhatikan dengan seksama maka proses menyimpa buku (disebut push) dan proses mengambil buku (disebut pop) dari suatu tumpukan selalu dilakukan pada bagian atas tumpukan (top of the stack ) sehingga terjadi urutan yang disebut LIFO (Last In First Out). Artinya, buku yang terakhir disimpan adalah buku yang pertama harus diambil karena buku inilah  yang berada pada urutan teratas dari tumpukan.
+
 Operasi dalam stack :
-
-	Push : Menyisipkan data ke dalam stack.
-	Pop : Mengeluarkan data dari stack
-	IsEmpty : Untuk mengecek apakah stack dalam keadaan kosong atau tidak.
-	IsFull : Untuk mengecek apakah stack dalam keadaan penuh atau tidak
-	Clear : Mengosongkan isi data.
+Push : Menyisipkan data ke dalam stack.
+Pop : Mengeluarkan data dari stack
+IsEmpty : Untuk mengecek apakah stack dalam keadaan kosong atau tidak.
+IsFull : Untuk mengecek apakah stack dalam keadaan penuh atau tidak
+Clear : Mengosongkan isi data.
 
 Pendeklarasian stack :
 //deklarasi stack dengan struct dan array
