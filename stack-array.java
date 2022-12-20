@@ -57,3 +57,11 @@ public class ArrayStack < E > {
     output, they won't be printed.*/
     }
 }
+//Output
+Element at the top is :8        //d
+Element removed is : 8          //e
+The size of the stack is : 2    //f
+Element removed is : 3          //g
+Element at the top is : 9       //h   
+Stack is empty :  false         //j
+
